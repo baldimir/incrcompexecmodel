@@ -1,0 +1,4 @@
+# Project exclude paths
+/container-isolation-kjar1/target/
+/container-isolation-kjar103/target/
+/tests-module/target/
